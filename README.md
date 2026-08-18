@@ -49,7 +49,7 @@ Hotlink eSIM卡保号规则
 如下图，支付2RM费用后。回到APP首页，选择Buy Passes – 点击Other – 找到365 Days Active Period保号套餐。然后支付30RM保号套餐即可完成。
 <img width="1086" height="624" alt="image" src="https://github.com/user-attachments/assets/511bb73c-cae2-43fe-8252-19b944f7448f" />
 
-也可前往https://buyesim.pp.ua购买实名的成品esim
+https://buyesim.pp.ua   购买实名的成品esim
 
 
 
