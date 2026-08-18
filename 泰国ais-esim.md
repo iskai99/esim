@@ -196,7 +196,7 @@
 
 ### 邮件模板
 
-**收件人**：`customer.service@ais.co.th`（或通过 AIS 官网联系表单提交）
+**收件人**：`callcenter@ais.co.th`（或通过 AIS 官网联系表单提交）
 
 **主题**：
 ```
