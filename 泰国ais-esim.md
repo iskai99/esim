@@ -181,6 +181,64 @@
 > KYC 认证通过后，号码即可正常使用。如果认证失败，按提示重新拍摄证件或人脸即可。
 
 ---
+## 第四部分：开通国际漫游和 WiFi Calling
+
+### 为什么要发邮件开通
+
+> ⚠️ **重要**：AIS 预付费号码**默认没有开通国际漫游（International Roaming）服务**。如果你需要在中国或其他国家使用这个号码（接收短信、接打电话），必须手动申请开通国际漫游。
+>
+> 同时建议一并开通 **WiFi Calling（Wi-Fi 通话）**，这样在没有蜂窝信号的地方也能通过 Wi-Fi 接打电话和收发短信，非常适合在国内保号使用。
+
+开通方式：向 AIS 客服发送邮件申请，邮件中附上你的号码、ICCID、姓名等信息，客服审核后会为你开通。
+
+### 邮件模板
+
+**收件人**：`customer.service@ais.co.th`（或通过 AIS 官网联系表单提交）
+
+**主题**：
+```
+Request to Activate International Roaming and WiFi Calling - [你的手机号]
+```
+
+**正文**：
+
+```
+Dear AIS Customer Service,
+
+I am writing to request the activation of International Roaming and WiFi Calling services for my AIS prepaid number.
+
+Please find my account details below:
+
+- Full Name: [你的姓名拼音，与护照一致]
+- Mobile Number: [泰国手机号，如 092-xxx-xxxx]
+- ICCID / SIM Serial No.: [ICCID 卡号]
+- Passport No.: [护照号]
+- Nationality: Chinese
+
+I would like to request the following services to be activated:
+1. International Roaming (国际漫游)
+2. WiFi Calling (Wi-Fi 通话)
+
+I have completed the real-name verification (KYC) with my passport. Please let me know if any additional information or documentation is required.
+
+Thank you for your assistance. I look forward to your confirmation.
+
+Best regards,
+[你的姓名拼音]
+```
+
+> 📋 **邮件中必须附上的信息**：
+> - 手机号码（Mobile Number）
+> - ICCID / SIM Serial No.（在订单详情页可查到）
+> - 姓名（Full Name，与护照一致）
+> - 护照号（Passport No.）
+> - 国籍（Nationality）
+
+> 💡 **提示**：
+> - 邮件建议用英文发送，AIS 客服支持英文
+> - 一般 1-3 个工作日内会收到回复，开通后会有短信通知
+> - 如果长时间未回复，可以再发一封跟进，或通过 AIS 官方 LINE 账号 @AIS 联系在线客服
+> - WiFi Calling 开通后，在手机设置中开启 Wi-Fi 通话功能即可使用
 
 ## eSIM 安装方法
 
