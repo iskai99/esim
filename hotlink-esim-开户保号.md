@@ -1,6 +1,11 @@
 # esim
 eSIM 开户、激活、保号与常见问题指南｜含实测经验和 eSIM 商品站推荐
 
+## ⚡ 不想自己折腾？直接买成品
+
+如果你没有马来西亚银行卡、嫌自助申请太麻烦，或者想即买即用，可以直接购买已开好的成品 eSIM：
+
+👉 **[点击购买成品马来西亚Hotlink eSIM（已实名）](https://buyesim.pp.ua)**
 马来西亚 Hotlink esim
 
 Hotlink品牌介绍
@@ -49,7 +54,6 @@ Hotlink eSIM卡保号规则
 如下图，支付2RM费用后。回到APP首页，选择Buy Passes – 点击Other – 找到365 Days Active Period保号套餐。然后支付30RM保号套餐即可完成。
 <img width="1086" height="624" alt="image" src="https://github.com/user-attachments/assets/511bb73c-cae2-43fe-8252-19b944f7448f" />
 
-https://buyesim.pp.ua   购买实名的成品esim
 
 
 
